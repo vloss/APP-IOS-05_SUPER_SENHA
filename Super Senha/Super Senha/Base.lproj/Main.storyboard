@@ -146,6 +146,14 @@
                     <navigationItem key="navigationItem" title="Gerador de Senhas" id="I82-vd-X5i">
                         <barButtonItem key="backBarButtonItem" title="Gerador de Senhas" id="Inh-KV-jqb"/>
                     </navigationItem>
+                    <connections>
+                        <outlet property="swCapitalLetters" destination="mKr-Mb-8T0" id="GdW-o7-gbh"/>
+                        <outlet property="swLetters" destination="Vtb-Mt-Qlh" id="HfA-OS-98L"/>
+                        <outlet property="swNumbers" destination="SKh-ts-70T" id="8Nr-71-bLo"/>
+                        <outlet property="swSpecialCharacters" destination="EfO-Ol-bgz" id="yXk-Zd-9fO"/>
+                        <outlet property="tfNumberOfCharacters" destination="Tbs-JW-k2J" id="akX-dV-9Wm"/>
+                        <outlet property="tfTotalPasswords" destination="dTd-uJ-oLm" id="HCF-Ne-hIB"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

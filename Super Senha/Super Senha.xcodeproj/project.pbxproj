@@ -13,6 +13,7 @@
 		B76B659829744EF100A396E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B76B659629744EF100A396E9 /* Main.storyboard */; };
 		B76B659A29744EF300A396E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B76B659929744EF300A396E9 /* Assets.xcassets */; };
 		B76B659D29744EF300A396E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B76B659B29744EF300A396E9 /* LaunchScreen.storyboard */; };
+		B7C6DE09297470CD001043F4 /* PasswordsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7C6DE08297470CD001043F4 /* PasswordsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B76B659929744EF300A396E9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B76B659C29744EF300A396E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B76B659E29744EF300A396E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7C6DE08297470CD001043F4 /* PasswordsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				B76B659229744EF100A396E9 /* SceneDelegate.swift */,
 				B76B659429744EF100A396E9 /* ViewController.swift */,
 				B76B659629744EF100A396E9 /* Main.storyboard */,
+				B7C6DE08297470CD001043F4 /* PasswordsViewController.swift */,
 				B76B659929744EF300A396E9 /* Assets.xcassets */,
 				B76B659B29744EF300A396E9 /* LaunchScreen.storyboard */,
 				B76B659E29744EF300A396E9 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B76B659529744EF100A396E9 /* ViewController.swift in Sources */,
+				B7C6DE09297470CD001043F4 /* PasswordsViewController.swift in Sources */,
 				B76B659129744EF100A396E9 /* AppDelegate.swift in Sources */,
 				B76B659329744EF100A396E9 /* SceneDelegate.swift in Sources */,
 			);
